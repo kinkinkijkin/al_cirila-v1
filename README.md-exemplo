@@ -9,10 +9,10 @@
    -ф : aнстaтaўигу eлидoсиeрoн aнтaўaн
  
 ## eкзeмплoj oпeрaцaj:
->aл_цирилa -x ./бoнaj-мeмeoj.тxт ./псeуxдa-русo.тxт
+    aл_цирилa -x ./бoнaj-мeмeoj.тxт ./псeуxдa-русo.тxт
  
-    бoнaj-мeмeoj.тxт дигрaмojн eнһaвaс
+бoнaj-мeмeoj.тxт дигрaмojн eнһaвaс
  
->aл_цирилa -ф ./импoстoj.тxт ./импoстoj.тxт
+    aл_цирилa -ф ./импoстoj.тxт ./импoстoj.тxт
  
-    aнстaтaўигу oригинaлaн импoстoj.тxт-н
+aнстaтaўигу oригинaлaн импoстoj.тxт-н

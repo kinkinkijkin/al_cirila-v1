@@ -9,10 +9,10 @@ transliterumilo malgranda
    -f : anstataŭigu elidosieron antaŭan
 
 ## ekzemploj operacaj:
->al_cirila -x ./bonaj-memeoj.txt ./pseuxda-ruso.txt
+    al_cirila -x ./bonaj-memeoj.txt ./pseuxda-ruso.txt
 
-    bonaj-memeoj.txt digramojn enhavas
+bonaj-memeoj.txt digramojn enhavas
 
->al_cirila -f ./impostoj.txt ./impostoj.txt
+    al_cirila -f ./impostoj.txt ./impostoj.txt
 
-    anstataŭigu originalan impostoj.txt-n
+anstataŭigu originalan impostoj.txt-n
